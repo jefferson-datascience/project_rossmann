@@ -1,6 +1,6 @@
 # PREVISÃO DE VENDAS DA REDE DE DROGARIAS ROSSMANN
 
-
+<img src="" alt="logo" style="zoom: 90%;" />
 
 O projeto tem como objetivo realizar a previsão do volume de vendas das próximas 6 semanas de cada loja da Rede Rossmann. 
 
