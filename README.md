@@ -1,6 +1,6 @@
 # PREVISÃO DE VENDAS DA REDE DE DROGARIAS ROSSMANN
 
-<img src="" alt="logo" style="zoom: 90%;" />
+<img src="https://github.com/jefferson-datascience/project_rossmann/blob/main/img/rossmann-logo.png" alt="logo" style="zoom:100%;" />
 
 O projeto tem como objetivo realizar a previsão do volume de vendas das próximas 6 semanas de cada loja da Rede Rossmann. 
 
