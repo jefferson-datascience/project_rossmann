@@ -1,5 +1,7 @@
 # PREVISÃO DE VENDAS DA REDE DE DROGARIAS ROSSMANN
 
+
+
 O projeto tem como objetivo realizar a previsão do volume de vendas das próximas 6 semanas de cada loja da Rede Rossmann. 
 
 Para o projeto ser executado, os dados foram coletados obtidos do Kaggle, do desafio "Rossmann Store Sales"
