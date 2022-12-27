@@ -16,7 +16,7 @@ A Rossmann é uma rede de Drogarias Europeia em que o seu principal faturamento 
   
 ### Como será o produto final?
   Será entregue um BOT no Telegram para que o CFO possa ter as informações das vendas das próximas 6 semanas das lojas. Com isso, o CFO pode ter acesso a esses dados de qualquer lugar no momento em que ele precise bastando apenas ter um dispositivo(smartphone, tablet ou notebook) em mãos. Além disso, como subproduto será entregue um relatório com os principais insights gerados.
-  A API estará hospedada na plataforma HEROKU e está disponível no seguinte link: https://bot-rossmann-prediction.herokuapp.com
+  A API estará hospedada na plataforma HEROKU e está disponível no seguinte link: # Em manutenção.
   
   
 ## ESTRATÉGIA DE RESOLUÇÃO
