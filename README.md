@@ -15,8 +15,8 @@ A Rossmann é uma rede de Drogarias Europeia em que o seu principal faturamento 
   A solução para esse problema de negócio é um aprendizado de máquina que faça a previsão de vendas das próximas 6 semanas.
   
 ### Como será o produto final?
-  Será entregue um BOT no Telegram para que o CFO possa ter as informações das vendas das próximas 6 semanas das lojas. Com isso, o CFO pode ter acesso a esses dados de qualquer lugar no momento em que ele precise bastando apenas ter um dispositivo(smartphone, tablet ou notebook) em mãos. Além disso, como subproduto será entregue um relatório com os principais insights gerados.
-  A API estará hospedada na plataforma HEROKU e está disponível no seguinte link: [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](http://t.me/predict_sales_rossmann_bot)
+  Será entregue um BOT no Telegram para que o CFO possa ter as informações das vendas das próximas 6 semanas das lojas. Com isso, o CFO pode ter acesso a esses dados de qualquer lugar no momento em que ele precise bastando apenas ter um dispositivo(smartphone, tablet ou notebook) em mãos e digitando o número da loja em que tem interesse de saber o volume de vendas das próximas 6 semanas. Além disso, como subproduto será entregue um relatório com os principais insights gerados.
+  A API estará hospedada na plataforma Render e o BOT está disponível no seguinte link: [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](http://t.me/predict_sales_rossmann_bot)
 
   
   
